@@ -12,3 +12,4 @@ No.|Titile|Comment
 练3-2|[Molar Mass](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=4461&mosmsg=Submission+received+with+ID+20292660)|UVa 1586
 练3-3|[Digit Counting](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=3666&mosmsg=Submission+received+with+ID+20295667)|UVa 1225
 练3-4|[Periodic Strings](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=396)|UVa 455
+练3-5|[Puzzle](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=163&mosmsg=Submission+received+with+ID+20296495)|UVa 227
