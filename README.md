@@ -14,3 +14,9 @@ No.|Titile|Comment
 练3-4|[Periodic Strings](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=396)|UVa 455
 练3-5|[Puzzle](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=163&mosmsg=Submission+received+with+ID+20296495)|UVa 227
 练3-6|[Crossword Answers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=168)|UVa 232
+练3-7|[DNA Consensus String]()|UVa 1368
+练3-8|[Repeating Decimals]()|UVa 202
+练3-9|[All in All]()|UVa 10340
+练3-10|[Box]()|UVa 1587
+练3-11|[Kickdown]()|UVa 1588
+练3-12|[Floating-Point Numbers]()|UVa 11809
