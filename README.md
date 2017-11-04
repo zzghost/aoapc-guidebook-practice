@@ -10,5 +10,5 @@ No.|Titile|Comment
 例3-6|[Circular Squence](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=829&problem=4459&mosmsg=Submission+received+with+ID+20295420)|UVa 1584
 练3-1|[Score](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=4460)|UVa 1585
 练3-2|[Molar Mass](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=4461&mosmsg=Submission+received+with+ID+20292660)|UVa 1586
-练3-3|[Digit Counting]（https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=3666&mosmsg=Submission+received+with+ID+20295667)|UVa 1225
+练3-3|[Digit Counting](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=3666&mosmsg=Submission+received+with+ID+20295667)|UVa 1225
 练3-4|[Periodic Strings](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=396)|UVa 455
