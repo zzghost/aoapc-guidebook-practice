@@ -6,6 +6,8 @@ No.|Titile|Comment
 例3-2|[WERTYU](http://bailian.openjudge.cn/practice/2538/)|POJ 2538, UVa 10082
 例3-3|[Palindromes](http://bailian.openjudge.cn/practice/1590/)|POJ 1590, UVa 401
 例3-4|[Master-Mind Hints](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=276)|UVa 340
+例3-5|[Digit Generator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=4458)|UVa 1583
+例3-6|[Circular Squence](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=829&problem=4459&mosmsg=Submission+received+with+ID+20295420)|UVa 1584
 练3-1|[Score](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=4460)|UVa 1585
 练3-2|[Molar Mass](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=830&problem=4461&mosmsg=Submission+received+with+ID+20292660)|UVa 1586
 
